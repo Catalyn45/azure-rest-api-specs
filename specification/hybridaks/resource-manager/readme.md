@@ -36,7 +36,7 @@ directive:
     reason: "patchVersions is a map of patch version info, following AKS behavior."
 
   - suppress: MISSING_APIS_IN_DEFAULT_TAG
-    reason: "storageSpaces API was deprecated and removed after 2022-09-01-preview."
+    reason: "storageSpaces API was deprecated and removed after 2022-09-01-preview"
 ```
 
 ### Basic Information
