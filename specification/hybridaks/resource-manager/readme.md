@@ -59,8 +59,7 @@ input-file:
   - Microsoft.HybridContainerService/preview/2026-04-01-preview/openapi.json
 suppressions:
   - code: MISSING_APIS_IN_DEFAULT_TAG
-    reason: "storageSpaces API was deprecated and removed after 2022-09-01-preview."
-behavior since 2022-09-01-preview."
+    reason: "storageSpaces API was deprecated and removed after 2022-09-01-preview"
 ```
 
 
